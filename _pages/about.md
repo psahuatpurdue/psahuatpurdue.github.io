@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I’m Praveen Sahu, a PhD Candidate at Purdue University, West Lafayette, in the School of Engineering Technology. I’m an applied scientist by training with a background in electrical engineering, but I have just enough expertise in biomedical sciences and data science to make trouble.
 
-Currently working on an interdisciplinary project involving Electroporation techniques at triple-negative breast cancer cells. I joined Purdue in the spring of 2021 and started working with [Dr Raji Sundararajan] (https://polytechnic.purdue.edu/profile/rsundara) and [Dr Ignacio Camarillo] (https://www.bio.purdue.edu/People/profile/ignacio.html) at [Institute for Cancer Research] (https://www.purdue.edu/cancer-research/).   
+Currently working on an interdisciplinary project involving Electroporation techniques on triple-negative breast cancer cells. I joined Purdue in the spring of 2021 and started working with [Dr Raji Sundararajan](https://polytechnic.purdue.edu/profile/rsundara) and [Dr Ignacio Camarillo](https://www.bio.purdue.edu/People/profile/ignacio.html) at [Institute for Cancer Research](https://www.purdue.edu/cancer-research/).   
 
 Research Interest
 ======
@@ -18,12 +18,12 @@ Applied Scientist leveraging data and experimental expertise to build a miniatur
 
 News
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. Conducted a invited talk and workshop on "Resume Building" for undergraduate students at Purdue Polytechnic.
+2. Recieved the prestigious Bilsland Fellowship, Purdue University, 2023
+3. Recieved the Summer Research Grant, Purdue University, 2023
+2. Research Presentation Award (2nd Prize), Annual Meet, Electrostatic Satiety of America (ESA), USA, 2021
+3. Research Presentation Award, INNCP Conference, India, 2021
+4. Recieved the prestigious Ross Fellowship, Purdue University, 2021
 
 Publication
 ------
