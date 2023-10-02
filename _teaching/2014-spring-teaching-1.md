@@ -1,14 +1,19 @@
 ---
-title: "Teaching experience 1"
+title: "Graduate Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Undergraduate course: ECET 27900- Embedded Digital Systems "
+permalink: /teaching/2022-spring-teaching-1
+venue: "School of Engineering Technology, Purdue University"
+date: 2022-01-01
+location: "West Lafayette, Indiana"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+•	Instructed all five lab sessions weekly as primary instructor
+•	Conducted lab pre-lectures and demos while supervising students during the lab sessions. 
+•	Mentored students in their final prototype development.
+•	Delivered four classroom lectures in the semester
+•	Weekly graded post-lab submissions and added valuable feedback
+•	Used evaluation and feedback from students as a tool to improve teaching
 
 Heading 1
 ======
