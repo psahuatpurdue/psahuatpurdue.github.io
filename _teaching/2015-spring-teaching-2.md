@@ -1,7 +1,7 @@
 ---
-title: "Graduate Teaching Assistant"
+title: "Graduate Teaching Assistant- ECET 27700- AC and Power Electronics (Spring '22/ Fall'22 / Spring '23)"
 collection: teaching
-type: "ECET 27700- AC and Power Electronics "
+type: "Undergraduate Course at"
 permalink: /teaching/2015-spring-teaching-1
 venue: "School of Engineering Technology, Purdue University"
 date: 2022-01-01
