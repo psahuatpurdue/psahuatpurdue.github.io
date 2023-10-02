@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Enhanced Antiproliferation Potency of Electrical Pulse-mediated Metformin and Cisplatin combination therapy on MDA-MB-231 cells"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+excerpt: 'Enhanced Antiproliferation Potency of Electrical Pulse-mediated Metformin and Cisplatin combination therapy on MDA-MB-231 cells'
+date: 2022-10-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'http://psahuatpurdue.github.io/files/paper4.pdf'
+citation: 'P Sahu, I Camarillo, R Sundararajan, "Enhanced Antiproliferation Potency of Electrical Pulse-mediated Metformin and Cisplatin combination therapy on MDA-MB-231 cells", Applied Biochemistry and Biotechnology, 2021 https://doi.org/10.1007/s12010-021-03723-5'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+"Enhanced Antiproliferation Potency of Electrical Pulse-mediated Metformin and Cisplatin combination therapy on MDA-MB-231 cells"
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://psahuatpurdue.github.io/files/paper4.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: P Sahu, I Camarillo, R Sundararajan, "Enhanced Antiproliferation Potency of Electrical Pulse-mediated Metformin and Cisplatin combination therapy on MDA-MB-231 cells", Applied Biochemistry and Biotechnology, 2021 https://doi.org/10.1007/s12010-021-03723-5
