@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Applied Scientist leveraging data and experimental expertise to build a miniaturized 3D printed electronic device for personalized treatment of cancer. More than 3-years of work experience in IoT product development and market research in the Start-up ecosystem and 5-years of extensive research in interdisciplinary areas. Inclined towards IoT system design with direct-to-consumer and Healthcare applications.
+Hi! I’m Praveen Sahu, a PhD Candidate at Purdue University, West Lafayette, in the School of Engineering Technology. I’m an applied scientist by training with a background in electrical engineering, but I have just enough expertise in biomedical sciences and data science to make trouble.
+
+Currently working on an interdisciplinary project involving Electroporation techniques at triple-negative breast cancer cells. I joined Purdue in the spring of 2021 and started working with [Dr Raji Sundararajan] (https://polytechnic.purdue.edu/profile/rsundara) and [Dr Ignacio Camarillo] (https://www.bio.purdue.edu/People/profile/ignacio.html) at [Institute for Cancer Research] (https://www.purdue.edu/cancer-research/).   
 
 Research Interest
 ======
