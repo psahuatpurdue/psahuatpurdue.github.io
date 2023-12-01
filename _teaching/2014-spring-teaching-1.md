@@ -1,7 +1,7 @@
 ---
 title: "ECET 27900- Embedded Digital Systems (Spring '22/ Fall'22 / Spring '23)"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Course"
 permalink: /teaching/2022-spring-teaching-1
 venue: "School of Engineering Technology, Purdue University"
 date: 2022-01-01
