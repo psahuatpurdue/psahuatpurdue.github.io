@@ -17,6 +17,8 @@ Research Interest
 Applied Scientist leveraging data and experimental expertise to build a miniaturized 3D printed electronic device for personalized treatment of cancer. More than 3-years of work experience in IoT product development and market research in the Start-up ecosystem and 5-years of extensive research in interdisciplinary areas. Inclined towards IoT system design with direct-to-consumer and Healthcare applications.
 
 
+# 🚩 Title with Fast Waving Flag
+
 <style>
   @keyframes wave {
     0%,
@@ -24,26 +26,23 @@ Applied Scientist leveraging data and experimental expertise to build a miniatur
       transform: rotate(0deg);
     }
     25% {
-      transform: rotate(5deg);
+      transform: rotate(10deg);
     }
     50% {
       transform: rotate(0deg);
     }
     75% {
-      transform: rotate(-5deg);
+      transform: rotate(-10deg);
     }
   }
 
-  .moving-flag {
+  .fast-waving-flag {
     display: inline-block;
-    animation: wave 2s infinite;
+    animation: wave 1s infinite; /* Adjusted the duration to make it faster */
   }
 </style>
 
-<div class="moving-flag">🚩</div>
-
-
-News
+<div class="fast-waving-flag">🚩</div> News
 ======
 1. Conducted a invited talk and workshop on "Resume Building" for undergraduate students at Purdue Polytechnic.
 2. Recieved the prestigious Bilsland Fellowship, Purdue University, 2023
