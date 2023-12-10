@@ -12,3 +12,4 @@ citation: 'A Ramesh, P Sahu, L Mittal, R Sundararajan, I Camarillo, "Cancer mana
 
 Recommended citation: A Ramesh, P Sahu, L Mittal, R Sundararajan, I Camarillo, "Cancer management during COVID-19 period-A preliminary study", G Med Sci. 2020; 1(6): 053- 068. https://www.doi.org/10.46766/thegms.oncol.20122003 .
 
+
