@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 3"
-collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+title: "Extraction of Key Features and Enhanced Prediction Framework of Breast Cancer Occurrence"
+collection: IEEE International Conference on Trends in Electronics and Informatics (ICOEI)
+permalink: https://ieeexplore.ieee.org/abstract/document/9777165
+date: 2022-01-01
+venue: 'IEEE International Conference on Trends in Electronics and Informatics (ICOEI)'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9777165'
+citation: 'P Sahu, P Giri, R Sunkara, R Sundararajan, "Extraction of Key Features and Enhanced Prediction Framework of Breast Cancer Occurrence",6th International Conference on Trends in Electronics and Informatics (ICOEI), Jan 2022	'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://ieeexplore.ieee.org/abstract/document/9777165)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: P Sahu, P Giri, R Sunkara, R Sundararajan, "Extraction of Key Features and Enhanced Prediction Framework of Breast Cancer Occurrence",6th International Conference on Trends in Electronics and Informatics (ICOEI), Jan 2022	.
