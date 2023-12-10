@@ -1,7 +1,7 @@
 ---
 title: "Male breast cancer: another look"
 collection:  Gazette Medical Sciences. 2021
-permalink: https://www.doi.org/10.46766/thegms.oncol.21040502 
+permalink: publication/Male Breast Cancer Paper
 date: 2021
 venue: 'Gazette Medical Sciences. 2021'
 paperurl: 'https://www.doi.org/10.46766/thegms.oncol.21040502 '
