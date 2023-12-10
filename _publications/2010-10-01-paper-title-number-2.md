@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 2"
-collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+title: "Rapid and Low-Cost Fabrication of Microfluidic Devices Using Liquid Crystals Display-Based 3D Printing"
+collection: International Mechanical Engineering Congress & Exposition (IMECE)
+permalink: https://asmedigitalcollection.asme.org/IMECE/proceedings-abstract/IMECE2022/V02AT02A024/1156764
+date: 2022-10-01
+venue: 'International Mechanical Engineering Congress & Exposition (IMECE)'
+paperurl: 'https://asmedigitalcollection.asme.org/IMECE/proceedings-abstract/IMECE2022/V02AT02A024/1156764'
+citation: 'Y Shan, P Sahu, R Sundararajan, H Mao, "Rapid and Low-Cost Fabrication of Microfluidic Devices Using Liquid Crystals Display-Based 3D Printing", International Mechanical Engineering Congress & Exposition (IMECE), Oct 2022'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](hhttps://asmedigitalcollection.asme.org/IMECE/proceedings-abstract/IMECE2022/V02AT02A024/1156764)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Y Shan, P Sahu, R Sundararajan, H Mao, "Rapid and Low-Cost Fabrication of Microfluidic Devices Using Liquid Crystals Display-Based 3D Printing", International Mechanical Engineering Congress & Exposition (IMECE), Oct 2022.
