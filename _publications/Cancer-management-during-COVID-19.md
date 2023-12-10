@@ -1,15 +1,14 @@
 ---
-title: "Enhanced Antiproliferation Potency of Electrical Pulse-mediated Metformin and Cisplatin combination therapy on MDA-MB-231 cells"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'Enhanced Antiproliferation Potency of Electrical Pulse-mediated Metformin and Cisplatin combination therapy on MDA-MB-231 cells'
-date: 2022-10-01
-venue: 'Journal 1'
-paperurl: 'http://psahuatpurdue.github.io/files/paper4.pdf'
-citation: 'P Sahu, I Camarillo, R Sundararajan, "Enhanced Antiproliferation Potency of Electrical Pulse-mediated Metformin and Cisplatin combination therapy on MDA-MB-231 cells", Applied Biochemistry and Biotechnology, 2021 https://doi.org/10.1007/s12010-021-03723-5'
+title: "Cancer management during COVID-19 period-A preliminary study"
+collection: Gazette  Medical Sciences
+permalink: /publication/Cancer-management-during-COVID-19
+date: 2020
+venue: 'Gazette  Medical Sciences'
+paperurl: 'https://www.doi.org/10.46766/thegms.oncol.20122003'
+citation: 'A Ramesh, P Sahu, L Mittal, R Sundararajan, I Camarillo, "Cancer management during COVID-19 period-A preliminary study", G Med Sci. 2020; 1(6): 053- 068. https://www.doi.org/10.46766/thegms.oncol.20122003 '
 ---
-"Enhanced Antiproliferation Potency of Electrical Pulse-mediated Metformin and Cisplatin combination therapy on MDA-MB-231 cells"
+"Cancer management during COVID-19 period-A preliminary study"
 
-[Download paper here](http://psahuatpurdue.github.io/files/paper4.pdf)
+[Download paper here](https://www.doi.org/10.46766/thegms.oncol.20122003)
 
-Recommended citation: P Sahu, I Camarillo, R Sundararajan, "Enhanced Antiproliferation Potency of Electrical Pulse-mediated Metformin and Cisplatin combination therapy on MDA-MB-231 cells", Applied Biochemistry and Biotechnology, 2021 https://doi.org/10.1007/s12010-021-03723-5
+Recommended citation: A Ramesh, P Sahu, L Mittal, R Sundararajan, I Camarillo, "Cancer management during COVID-19 period-A preliminary study", G Med Sci. 2020; 1(6): 053- 068. https://www.doi.org/10.46766/thegms.oncol.20122003 
