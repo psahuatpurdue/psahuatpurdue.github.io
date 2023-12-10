@@ -1,13 +1,13 @@
 ---
-title: "Extraction of Key Features and Enhanced Prediction Framework of Breast Cancer Occurrence"
-collection: IEEE International Conference on Trends in Electronics and Informatics (ICOEI)
-permalink: https://ieeexplore.ieee.org/abstract/document/9777165
-date: 2022-01-01
-venue: 'IEEE International Conference on Trends in Electronics and Informatics (ICOEI)'
-paperurl: 'https://ieeexplore.ieee.org/abstract/document/9777165'
-citation: 'P Sahu, P Giri, R Sunkara, R Sundararajan, "Extraction of Key Features and Enhanced Prediction Framework of Breast Cancer Occurrence",6th International Conference on Trends in Electronics and Informatics (ICOEI), Jan 2022	'
+title: "Electroporation-mediated Metformin for effective anticancer treatment of triple-negative breast cancer cell"
+collection: Proceedings 2021 Annual Meeting of the Electrostatics Society of America, Jun 2021
+permalink: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=P9D8edUAAAAJ&citation_for_view=P9D8edUAAAAJ:qjMakFHDy7sC
+date: 2021
+venue: 'Proceedings 2021 Annual Meeting of the Electrostatics Society of America, Jun 2021'
+paperurl: 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=P9D8edUAAAAJ&citation_for_view=P9D8edUAAAAJ:qjMakFHDy7sC'
+citation: 'P Sahu, P Giri, I Camarillo, R Sundararajan, "Electroporation-mediated Metformin for effective anticancer treatment of triple-negative breast cancer cell," Proc. 2021 Annual Meeting of the Electrostatics Society of America, Jun 2021'
 ---
 
-[Download paper here](https://ieeexplore.ieee.org/abstract/document/9777165)
+[Download paper here](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=P9D8edUAAAAJ&citation_for_view=P9D8edUAAAAJ:qjMakFHDy7sC)
 
-Recommended citation: P Sahu, P Giri, R Sunkara, R Sundararajan, "Extraction of Key Features and Enhanced Prediction Framework of Breast Cancer Occurrence",6th International Conference on Trends in Electronics and Informatics (ICOEI), Jan 2022	.
+Recommended citation: P Sahu, P Giri, I Camarillo, R Sundararajan, "Electroporation-mediated Metformin for effective anticancer treatment of triple-negative breast cancer cell," Proc. 2021 Annual Meeting of the Electrostatics Society of America, Jun 2021.
