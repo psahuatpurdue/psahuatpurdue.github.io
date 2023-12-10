@@ -1,14 +1,13 @@
 ---
-title: "Cancer management during COVID-19 period-A preliminary study"
-collection: Gazette  Medical Sciences
-permalink: /publication/Cancer-management-during-COVID-19
-date: 2020
-venue: 'Gazette  Medical Sciences'
-paperurl: 'https://www.doi.org/10.46766/thegms.oncol.20122003'
-citation: 'A Ramesh, P Sahu, L Mittal, R Sundararajan, I Camarillo, "Cancer management during COVID-19 period-A preliminary study", G Med Sci. 2020; 1(6): 053- 068. https://www.doi.org/10.46766/thegms.oncol.20122003 '
+title: "Rapid and Low-Cost Fabrication of Microfluidic Devices Using Liquid Crystals Display-Based 3D Printing"
+collection: International Mechanical Engineering Congress & Exposition (IMECE)
+permalink: https://asmedigitalcollection.asme.org/IMECE/proceedings-abstract/IMECE2022/V02AT02A024/1156764
+date: 2022-10-01
+venue: 'International Mechanical Engineering Congress & Exposition (IMECE)'
+paperurl: 'https://asmedigitalcollection.asme.org/IMECE/proceedings-abstract/IMECE2022/V02AT02A024/1156764'
+citation: 'Y Shan, P Sahu, R Sundararajan, H Mao, "Rapid and Low-Cost Fabrication of Microfluidic Devices Using Liquid Crystals Display-Based 3D Printing", International Mechanical Engineering Congress & Exposition (IMECE), Oct 2022'
 ---
-"Cancer management during COVID-19 period-A preliminary study"
 
-[Download paper here](https://www.doi.org/10.46766/thegms.oncol.20122003)
+[Download paper here](hhttps://asmedigitalcollection.asme.org/IMECE/proceedings-abstract/IMECE2022/V02AT02A024/1156764)
 
-Recommended citation: A Ramesh, P Sahu, L Mittal, R Sundararajan, I Camarillo, "Cancer management during COVID-19 period-A preliminary study", G Med Sci. 2020; 1(6): 053- 068. https://www.doi.org/10.46766/thegms.oncol.20122003 
+Recommended citation: Y Shan, P Sahu, R Sundararajan, H Mao, "Rapid and Low-Cost Fabrication of Microfluidic Devices Using Liquid Crystals Display-Based 3D Printing", International Mechanical Engineering Congress & Exposition (IMECE), Oct 2022.
